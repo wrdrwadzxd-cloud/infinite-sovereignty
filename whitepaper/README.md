@@ -290,5 +290,4 @@ Compliance Risks Dedicated team tracking global regulations; proactive legal adv
 Document Version: 1.0
 Last Updated: March 15, 2026
 Author: Wang He
-GitHub: https://github.com/wrdrwadzxd-cloud/infinite-sovereignty
 Contact: wrdrwadzxd@gmail.com
